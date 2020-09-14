@@ -16,6 +16,10 @@
   
   <table>
     <tr>
+        <th>Ppn 10 %</th>
+        <th>{{ 'Rp.' + ppn }}</th>
+    </tr>   
+    <tr>
         <th>Total</th>
         <th>{{ 'Rp.' + total }}</th>
     </tr>   
